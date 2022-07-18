@@ -13,7 +13,7 @@ The method is very easy:
 3. Save with where the *.dpk file is, then download the file to your PC first, then just re-upload the file to Mikrotik. You can use drag and drop file
 4. reboot your Router
 
-you can create ascci art from here https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+you can create ASCII art from here https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 
 ![image](https://user-images.githubusercontent.com/42666125/179501429-2b48ceb7-7035-49b5-afd7-97caed741d89.png)
 
