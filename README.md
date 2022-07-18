@@ -1,4 +1,4 @@
-# Branding-Maker_Mikrotik
+# Branding Maker Mikrotik
 Branding Maker Mikrotik RouterOS
 
 ![image](https://user-images.githubusercontent.com/42666125/179501394-be1bfe87-7b80-402d-ac27-f1a20d44a838.png)
